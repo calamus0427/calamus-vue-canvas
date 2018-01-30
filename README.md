@@ -16,3 +16,6 @@ npm install calamus-vue-canvas --save
 | isColor| 黑白还是彩色 | Boolean | true | true/false |
 | roundColor | 圆点颜色 | String | -- | #999 |
 | lineColor | 直线颜色 | String | -- | #ccc |
+
+# contact me
+[calamus](http://www.calamus.xyz)
