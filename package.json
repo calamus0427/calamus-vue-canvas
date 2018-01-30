@@ -1,0 +1,25 @@
+{
+    "name": "calamus-vue-canvas",
+    "version": "0.0.1",
+    "description": "vue-canvas",
+    "main": "index.j",
+    "bin": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/calamus0427/calamus-vue-canvas.git"
+    },
+    "keywords": [
+        "vue",
+        "canvas",
+        "calamus"
+    ],
+    "author": "calamus",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/calamus0427/calamus-vue-canvas/issues"
+    },
+    "homepage": "https://github.com/calamus0427/calamus-vue-canvas#readme"
+}
